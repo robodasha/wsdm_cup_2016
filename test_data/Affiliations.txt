@@ -1,0 +1,4 @@
+0000aff1	aff1
+0000aff2	aff2
+0000aff3	aff3
+0000aff4	aff4
