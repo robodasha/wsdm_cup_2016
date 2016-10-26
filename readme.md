@@ -1,6 +1,6 @@
 # WSDM Cup 2016
 
-In this repository you'll find the complete source codes which were used to produce our final submission to WSDM Cup 2016.
+In this repository you'll find the complete source codes which were used to produce our final submission to WSDM Cup 2016. The solution is described in https://docs.com/alex-wade/1be4ec82-5b4c-4780-a80c-b42ca5a81e6e/simple-yet-effective-methods-for-large-scale?c=7HPGvd.
 
 We used python, pandas, numpy and scipy and also HDF5 format and the pytables library for storing data.
 
